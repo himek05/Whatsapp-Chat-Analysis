@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+
+helper.cpython-37.pyc
+problem.cpython-37.pyc
